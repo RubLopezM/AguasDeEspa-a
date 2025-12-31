@@ -1,1 +1,2 @@
 # tap-water
+Este es un proyecto de desarrollo web para la creación de un portal donde los ciudadanos españoles puedan consultar los datos del SINAC (Sistema de Información Nacional de Aguas de Consumo) y adquirir consciencia sobre la calidad del agua consumida en las distintas localidades. Se pretende transformar así los datos cuantitativos en información cualitativa que cualquier persona con desconocimiento de química o calidad de consumo puedan comprender.
